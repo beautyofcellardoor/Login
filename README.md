@@ -1,1 +1,1 @@
-# Augment-JP
+# React HMR boiler
